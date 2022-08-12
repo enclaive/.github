@@ -1,4 +1,4 @@
-## Hi there 👋. Welcome to enclaive - Home of Confidential Containers 
+## Hi there 👋 Welcome to enclaive - Home of Confidential Containers 
 
 ![enclaive.io](/images/container.jpeg)
 
@@ -17,9 +17,14 @@ In recent years we see a growing interest for <b>managed services</b>. Enterpris
 Our mission is to make open-source software deployable everywhere by everyone. By everyone we mean any individual, any business or any industry. By everywhere we mean any execution platform, be it private or be it public. 
 We envision the further democratization of open-source software. The notion of free choice behind open-source software extends to free deployment. No one should be hampered from using open-source software anywhere. 
 </details>
-<details>
-<summary>Confidential Containers </summary>
-<br>
+<details><summary>Confidential Containers</summary>
+      <details><summary>TL;TR</summary>
+         Confidenital containers execute programs with the addition that 
+         <ol type="a">
+          <li> at any moment in time throughout the execution the process is fully memory encrypted, and  </li>    
+          <li> the authenticity of the confidential execution is verifiable. </li>
+        </ol>
+        Containers isolation is significantly hardened through cryptographic encryption and integrity protection.
 </details>
 
 
