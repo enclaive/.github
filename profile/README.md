@@ -1,17 +1,21 @@
-# Hi there 👋 
-* 👂 We are enclaive - Home of confidential cloud containers
-* 🔭 We build easy-to-use containers of the basic open-source stack with the extra power that the container application is fully memory encrypted during execution
-* 🌱 We currently learn what is the best approach to turn a container into a confidential container
-* 🤝 We aim to help open-source projects to extend their offering with a managed service thanks to a deployment in the confidential cloud
-* 🤔 We're looking for help with docker, docker-compose and kubernetes deployments
-* 💬 Ask us about ...
-* 📫 How to reach us: ...
-* ❤️ We love open-source projects for the cloud
-* ⚡ Fun fact: ...
+# Hi there and welcome 👋 
 
-
+![GitHub Org's stars](https://img.shields.io/github/stars/enclaive?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social)
 ![enclaive.io](/images/container.jpeg)
 
+# TL;TR
+* 👂 We are enclaive, pronounced /ˈɛnkleɪv/ 
+* 🔭 We build easy-to-use containers of the open-source stack with the super power that the container application is fully memory encrypted at any moment in time during execution and can prove its confidential state to a third party like the owner of the container running it in the cloud
+* 🕺 We combine Intel Security Guard Extension and open-source libOS technology to turn standard containers into confidential containers
+* ❤️ We love open-source software and want that many more users benefit from the awesomeness. To this end, software projects need to be well serviced and trusted irrespectively of who manages the software.
+* 🤝 We aim to help open-source projects to extend their offering with a managed service thanks to the deployment anywhere in confidential containers
+* 🤔 We're looking for open-source projects interested in packaging their service in confidential containers
+* 📫 How to reach us: Best way is via email (contact@enclaive.io)
+* ⚡ Fun fact: the 'i' in enclaive stands for inimitable pointing to the fact that whatever runs in  onfidential containers can't be copied
+
+# enclaive - Home of Confidential Cloud Containers
 <details>
 <summary>Motivation </summary>
 <br>
@@ -92,20 +96,10 @@ We envision the further democratization of open-source software. The notion of f
 ## Our main projects
 
 <table>
-<ul>
-<li>ArangoDB</li>
-<li>MariaDB</li>
-<li>MongoDB</li>
-<li>Redis</li>
-<li>SQL lite</li>
-<li>nodejs</li>
-<li>PHP</li>
-<li>Python</li>
-<li>Rust</li>
-<li>Go</li>
-<li>Java</li>
-<li>C/C++</li>
-</ul>
+<tr><td>ArangoDB</td><td>MariaDB</td>   <td>MongoDB</td><tr><td>Redis</td>  <td>SQL lite</td>  </tr> 
+<tr><td>nodejs</td></tr><td>NGINX</td> <td>Python</td> <td>Rust</td>       <td>Go</td></tr>
+<tr><td>PHP</td>    <td>Java</td>       <td>C/C++</td></tr>
+</table>
 
 ## Applications, Frameworks, Services
 
