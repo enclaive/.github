@@ -96,10 +96,11 @@ We envision the further democratization of open-source software. The notion of f
 ## Our main projects
 
 <table>
-<tr><td>ArangoDB</td><td>MariaDB</td>   <td>MongoDB</td><tr><td>Redis</td>  <td>SQL lite</td>  </tr> 
-<tr><td>nodejs</td></tr><td>NGINX</td> <td>Python</td> <td>Rust</td>       <td>Go</td></tr>
-<tr><td>PHP</td>    <td>Java</td>       <td>C/C++</td></tr>
+<tr><td>ArangoDB</td>   <td>MariaDB</td>    <td>MongoDB</td>    <td>Redis</td>  <td>SQL lite</td>   </tr> 
+<tr><td>nodejs</td>     <td>NGINX</td>      <td>Python</td>     <td>Rust</td>   <td>Go</td>         </tr>
+<tr><td>PHP</td>        <td>Java</td>       <td>C/C++</td>                                          </tr>
 </table>
 
 ## Applications, Frameworks, Services
 
+tbc
