@@ -13,7 +13,7 @@
 * 🤝 We aim to help open-source projects to extend their offering with a managed service thanks to the deployment anywhere in confidential containers
 * 🤔 We're looking for open-source projects interested in packaging their service in confidential containers
 * 📫 How to reach us: Best way is via email (contact@enclaive.io)
-* ⚡ Fun fact: the 'i' in enclaive stands for inimitable pointing to the fact that whatever runs in  onfidential containers can't be copied
+* ⚡ Fun fact: the 'i' in enclaive stands for inimitable pointing to the fact that whatever runs in confidential containers can't be copied
 
 # enclaive - Home of Confidential Cloud Containers
 <details>
