@@ -93,14 +93,43 @@ We envision the further democratization of open-source software. The notion of f
    <br><br>
 </details> 
 
-## Our main projects
+### Our main projects
 
 <table>
-<tr><td>ArangoDB</td>   <td>MariaDB</td>    <td>MongoDB</td>    <td>Redis</td>  <td>SQL lite</td>   </tr> 
-<tr><td>nodejs</td>     <td>NGINX</td>      <td>Python</td>     <td>Rust</td>   <td>Go</td>         </tr>
-<tr><td>PHP</td>        <td>Java</td>       <td>C/C++</td>                                          </tr>
+<tr>
+    <td align="center"><img alt="arangodb" height=64px src="https://avatars.githubusercontent.com/u/5547849">
+      <br>ArangoDB</td>   
+    <td align="center"><img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+      <br>MariaDB</td>    
+    <td align="center"><img alt="mongodb" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+      <br>MongoDB</td>    
+    <td align="center"><img alt="redis" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+      <br>Redis</td>  
+    <td align="center"><img alt="sqlite" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+      <br>SQL lite</td>   
+</tr> 
+<tr>
+    <td align="center"><img alt="nodejs" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+      <br>nodejs</td>     
+    <td align="center"><img alt="nginx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+      <br>NGINX</td>             
+</tr>
+<tr>
+     <td align="center"><img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python</td>     
+    <td align="center"><img alt="rust" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+      <br>Rust</td>   
+    <td align="center"><img alt="go" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+      <br>Go</td> 
+    <td align="center"><img alt="php" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <br>PHP</td>        
+    <td align="center"><img alt="java" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <br>Java</td> 
+    <td align="center"><img alt="c" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br>C</td> 
+    <td align="center"><img alt="cplusplus" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br>C++</td>                                          
+</tr>
 </table>
 
-## Applications, Frameworks, Services
+### Applications, Frameworks, Services
 
 tbc
