@@ -2,7 +2,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/enclaive?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)](https://twitter.com/enclaive_io)
-[![YouTube Follow](https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social)]()
+[![YouTube Follow](https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social)](https://www.youtube.com/channel/UChuBVOzH6WY7d31UcqMgMLg)
 ![enclaive.io](/images/container.jpeg)
 
 # TL;TR
