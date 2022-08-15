@@ -1,21 +1,22 @@
-# Hi there and welcome 👋 
+# Welcome to enclaive - Home of Confidential Compute Containers 👋 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/enclaive?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)](https://twitter.com/enclaive_io)
+[![YouTube Follow](https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social)]()
 ![enclaive.io](/images/container.jpeg)
 
 # TL;TR
 * 👂 We are enclaive, pronounced /ˈɛnkleɪv/ 
-* 🔭 We build easy-to-use containers of the open-source stack with the super power that the container application is fully memory encrypted at any moment in time during execution and can prove its confidential state to a third party like the owner of the container running it in the cloud
+* 🔭 We build easy-to-use containers of the open-source stack with the extra power that the container application is fully memory encrypted at any moment in time during execution and can prove its confidential state to a third party like the owner of the container running it in the cloud
 * 🕺 We combine Intel Security Guard Extension and open-source libOS technology to turn standard containers into confidential containers
-* ❤️ We love open-source software and want that many more users benefit from the awesomeness. To this end, software projects need to be well serviced and trusted irrespectively of who manages the software.
-* 🤝 We aim to help open-source projects to extend their offering with a managed service thanks to the deployment anywhere in confidential containers
-* 🤔 We're looking for open-source projects interested in packaging their service in confidential containers
+* ❤️ We love open-source software and want that many more users benefit from the awesomeness
+* 🤝 We aim to help open-source projects to extend their offerings with a managed, cost-effecitve, fully confidential and verifiable service thanks to the deployment in confidential containers in the public cloud
+* 🤔 We're looking for open-source projects interested in collaborting with us to package their service in confidential containers
 * 📫 How to reach us: Best way is via email (contact@enclaive.io)
-* ⚡ Fun fact: the 'i' in enclaive stands for inimitable pointing to the fact that whatever runs in confidential containers can't be copied
+* ⚡ Fun fact: the 'i' in enclaive stands for <u>i</u>nimitable pointing to the fact that whatever runs in confidential containers can't be copied
 
-# enclaive - Home of Confidential Cloud Containers
+# enclaive Organization
+### In a nutshell
 <details>
 <summary>Motivation </summary>
 <br>
@@ -128,8 +129,9 @@ We envision the further democratization of open-source software. The notion of f
     <td align="center"><img alt="c" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br>C</td> 
     <td align="center"><img alt="cplusplus" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br>C++</td>                                          
 </tr>
+<tr>
+    <td align="center"><img alt="wordpress" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"><br>Wordpress</td>
+</tr>
 </table>
 
-### Applications, Frameworks, Services
 
-tbc
