@@ -64,10 +64,10 @@ We envision the further democratization of open-source software. The notion of f
         caused by attacks like container esacalation, buffer overflow, return oriented programing, spektre, meltdown, rowhammer and various forms of rootkits. 
         <br><br>
         <p>Local and Remote Attestation</p>
-        In untrusted execution environments memory encryption is insufficient. Malicious environments may replace the container before execution. Containers have a unique cryptographic identity. During the build process the author signs the enclaved application. With the corresponding key material one can verify the authenticity of the confidential container. Local attestation is a supported cryptographic protocol to locally verify the container authenticity. Here, the CPU has the role of an auditor. It measures the fingerprint of the enclaved application. Remote attestation makes use of local attestation to verify the container authenticity, generate a report (kinda an X.509 certificate) and aims at proving to a remote party that the platform has executed the right container. Remote attestation is the ideal measure to assure the container execution in public cloud.    
+        In untrusted execution environments memory encryption is insufficient. Malicious environments may replace the container before execution. To this end, confindential containers have a unique cryptographic identity. During the container build process the author signs the application. With the corresponding key material one can verify the authenticity of the confidential container. Local attestation is a supported cryptographic protocol to locally verify the container authenticity. Here, the CPU takes the role of a trusted auditor. It measures the fingerprint of the enclaved application. Remote attestation goes one step further and allows a client to verify the authenticity. The protocol resembles the concept of local attestation and generate a cryptographic report (kinda an X.509 certificate). The aim is proving to a remote party that the platform has executed the right container. Thus, the ideal use case for remote attestation is the assurance of proper container execution in public clouds.   
         <br><br>
         <p>Key Management and Key Provisioning</p>
-        Confidential containers are loaded like normal containers into the memory before execution. While remote attestation safeguards the authenticity and integrity, the approach fails to prevent the untrusted environment from scrutinizing the container including the file system. For example, a Web server container is typically packaged with the server's SSL/TLS certificate and secret key. In the light of untrusted environments this approach is vulnerable and requires additional measures. A rule of thumb is to avoid to include any secrets to the container. The solution chosen for confidential containers is to load the application into the encrypted memory. Before running the program a pre-main process loads from a key management server the secrets through a secure channel protocol, stores them in the enclave, and continues with the main execution. A bit more concrete, the key management server first remotely attests it talks to the right container and that the container is within encrypted memory before establishing a TLS connection into the enclave to transport the secrets. The protocol is referred to as secret key provisioning and aims to mutually authenticate key provider and container before sending the secret.  
+        Confidential containers load like off-the-shelf containers a program into the memory before execution. While remote attestation safeguards the authenticity and integrity, the approach does not prevent the untrusted environment from scrutinizing the container including the file system. For example, a Web server container is typically packaged with the server's SSL/TLS certificate and secret key. In the light of untrusted environments this approach is vulnerable and requires additional measures. A rule of thumb is to avoid to include any secrets to the confidential container. As argued before, the untrusted environment may reverse engineer the secret from the container image. The solution chosen for confidential containers is to load the application into the encrypted memory without secrets. Before running the program a pre-main process loads from a key management server the secrets through a secure channel protocol, stores them in the enclave, and continues with the main execution. A bit more concrete, the key management server first remotely attests it talks to the right container and that the container is within encrypted memory before establishing a TLS connection into the enclave to transport the secrets. The protocol is referred to as secret key provisioning and aims to mutually authenticate key provider and container before sending the secret.  
         <br><br>
     </details>  
     <details><summary>Platform Prerequisites</summary>
@@ -134,4 +134,15 @@ We envision the further democratization of open-source software. The notion of f
 </tr>
 </table>
 
+### Confidential Containers in Action
+<table style="width:100%">
+<tr>
+    <td align="center" width:"25%">
+        <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
+        <br>Wordpress</td> 
+     </td>
 
+ </tr>
+ </table>
+      
+      
