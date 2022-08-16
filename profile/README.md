@@ -98,39 +98,40 @@ We envision the further democratization of open-source software. The notion of f
 
 <table>
 <tr>
-    <td align="center"><img alt="arangodb" height=64px src="https://avatars.githubusercontent.com/u/5547849">
-      <br>ArangoDB</td>   
-    <td align="center"><img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-      <br>MariaDB</td>    
-    <td align="center"><img alt="mongodb" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-      <br>MongoDB</td>    
-    <td align="center"><img alt="redis" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
-      <br>Redis</td>  
-    <td align="center"><img alt="sqlite" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-      <br>SQL lite</td>   
+    <td align="center"><img alt="arangodb-sgx" height=64px src="https://avatars.githubusercontent.com/u/5547849">
+      <br>ArangoDB-SGX</td>   
+    <td align="center"><img alt="mysql-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+      <br>MariaDB-SGX</td>    
+    <td align="center"><img alt="mongodb-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+      <br>MongoDB-SGX</td>    
+    <td align="center"><img alt="redis-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
+      <br>Redis-SGX</td>  
+    <td align="center"><img alt="sqlite-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+      <br>SQlite-SGX</td>   
 </tr> 
 <tr>
-    <td align="center"><img alt="nodejs" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-      <br>nodejs</td>     
-    <td align="center"><img alt="nginx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-      <br>NGINX</td>             
+    <td align="center"><img alt="nodejs-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+      <br>Nodejs-SGX</td>     
+    <td align="center"><img alt="nginx-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+      <br>Nginx-SGX</td>             
 </tr>
 <tr>
-     <td align="center"><img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <br>Python</td>     
-    <td align="center"><img alt="rust" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
-      <br>Rust</td>   
-    <td align="center"><img alt="go" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-      <br>Go</td> 
-    <td align="center"><img alt="php" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-      <br>PHP</td>        
-    <td align="center"><img alt="java" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-      <br>Java</td> 
-    <td align="center"><img alt="c" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br>C</td> 
-    <td align="center"><img alt="cplusplus" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br>C++</td>                                          
+     <td align="center"><img alt="python-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python-SGX</td>     
+    <td align="center"><img alt="rust-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+      <br>Rust-SGX</td>   
+    <td align="center"><img alt="go-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+      <br>Go-SGX</td> 
+    <td align="center"><img alt="php-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+      <br>PHP-SGX</td>        
+    <td align="center"><img alt="java-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <br>Java-SGX</td> 
+    <td align="center"><img alt="c-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br>C-SGX</td> 
+    <td align="center"><img alt="cplusplus-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br>Cpp-SGX</td>                                          
 </tr>
 <tr>
-    <td align="center"><img alt="wordpress" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"><br>Wordpress</td>
+    <td align="center"><img alt="wordpress-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"><br>Wordpress-SGX</td>
+    <td align="center"><img alt="umami-sgx" height=64px src="https://raw.githubusercontent.com/umami-software/umami/master/public/safari-pinned-tab.svg"><br>Umami-SGX</td>
 </tr>
 </table>
 
