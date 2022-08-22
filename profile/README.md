@@ -100,7 +100,7 @@ We envision the further democratization of open-source software. The notion of f
 <tr>
     <td align="center"><img alt="arangodb-sgx" height=64px src="https://avatars.githubusercontent.com/u/5547849">
       <br>ArangoDB-SGX</td>   
-    <td align="center"><img alt="mysql-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <td align="center"><img alt="mysql-sgx" height=64px src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg">
       <br>MariaDB-SGX</td>    
     <td align="center"><img alt="mongodb-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
       <br>MongoDB-SGX</td>    
