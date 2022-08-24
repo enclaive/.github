@@ -2,7 +2,6 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/enclaive?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)](https://twitter.com/enclaive_io)
-[![YouTube Follow](https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social)](https://www.youtube.com/channel/UChuBVOzH6WY7d31UcqMgMLg)
 ![enclaive.io](/images/container.jpeg)
 
 # TL;TR
@@ -15,7 +14,50 @@
 * 📫 How to reach us: Best way is via email (contact@enclaive.io)
 * ⚡ Fun fact: the 'i' in enclaive stands for <u>i</u>nimitable pointing to the fact that whatever runs in confidential containers can't be copied
 
-# enclaive Organization
+# TL;DR
+ <a href="https://www.youtube.com/channel/UChuBVOzH6WY7d31UcqMgMLg">
+ <img src="https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social">
+ </a>
+<table style="width:100%">
+<tr>
+    <td align="center" width:"25%">
+        <a href="https://www.youtube.com/watch?v=LZ10X1AlnJs"><img src="https://img.youtube.com/vi/LZ10X1AlnJs/0.jpg"></img></a>
+        <br>100s introduction to confidential compute</td> 
+     </td>
+
+ </tr>
+ </table>
+      
+
+# Organization
+
+<div align=center>
+ <table>
+    <tr> 
+      <td align="center">
+        <a href="https:/enclaive.io">
+<img alt="enclaive-logo" height=64px src="https://avatars.githubusercontent.com/u/79869513">
+</a>
+        <br>enclaive.io</td>     
+      </td>  
+    </tr>
+    </table>
+</div>
+
+<h3 align="center">Home of Confidential Compute Containers</h3>
+
+  <p align="center">
+    <a href="https://github.com/enclaive/.github/edit/main/profile/README.md#confidential-containers-in-action">Demo Videos</a>
+    ·
+    <a href="https:/enclaive.io">Web Site </a>
+    ·
+    <a href="https://twitter.com/enclaive_io">Twitter</a>
+    ·
+    <a href="https://www.youtube.com/channel/UChuBVOzH6WY7d31UcqMgMLg">Youtube</a>
+    <br>
+  </p>
+
+
 ### In a nutshell
 <details>
 <summary>Motivation </summary>
@@ -34,7 +76,7 @@ Our mission is to make open-source software deployable everywhere by everyone. B
 We envision the further democratization of open-source software. The notion of free choice behind open-source software extends to free deployment. No one should be stopped from using open-source software anywhere. 
 <br><br>
 </details>
-<details><summary>Confidential Containers</summary>
+<details><summary>Confidential Containers Technology explained</summary>
     <br>
     <details><summary>TL;TR</summary>
     <br>
@@ -47,7 +89,7 @@ We envision the further democratization of open-source software. The notion of f
         They are compatible with Docker, Docker Swarm and Kubernetes.
         <br><br>
     </details>
-    <details><summary>A Primer</summary>
+    <details><summary>A Primer: How does it work?</summary>
         <br>        
         <p>Hardware-graded Security</p>
         Confidential Containers leverage Intel's Security Guard Extension (SGX) technology, enriching the processor architecture with special registers for key storage and cryptoraphic algorithms as well as a memory management unit with the ability to allocate physical memory for encrypted processes, called enclaves. It is important to note solely the CPU has the capability to decrypt processes running in encrypted memory;  key material is generated at random during boot and inaccessible through software.
