@@ -22,7 +22,7 @@
 <tr>
     <td align="center" width:"25%">
         <a href="https://www.youtube.com/watch?v=LZ10X1AlnJs"><img src="https://img.youtube.com/vi/LZ10X1AlnJs/0.jpg"></img></a>
-        <br>100s introduction to confidential compute</td> 
+        <br>104s introduction to confidential compute</td> 
      </td>
 
  </tr>
@@ -103,7 +103,7 @@ We envision the further democratization of open-source software. The notion of f
         <li>kernel </li>
         <li>bootloader </li>
         </ul>   
-        caused by attacks like container esacalation, buffer overflow, return oriented programing, spektre, meltdown, rowhammer and various forms of rootkits. 
+        caused by attacks leading to container esacalation including buffer overflow, return oriented programing, spectre, meltdown, rowhammer and various forms of rootkits. 
         <br><br>
         <p>Local and Remote Attestation</p>
         In untrusted execution environments memory encryption is insufficient. Malicious environments may replace the container before execution. To this end, confindential containers have a unique cryptographic identity. During the container build process the author signs the application. With the corresponding key material one can verify the authenticity of the confidential container. Local attestation is a supported cryptographic protocol to locally verify the container authenticity. Here, the CPU takes the role of a trusted auditor. It measures the fingerprint of the enclaved application. Remote attestation goes one step further and allows a client to verify the authenticity. The protocol resembles the concept of local attestation and generate a cryptographic report (kinda an X.509 certificate). The aim is proving to a remote party that the platform has executed the right container. Thus, the ideal use case for remote attestation is the assurance of proper container execution in public clouds.   
