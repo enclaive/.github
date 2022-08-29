@@ -169,17 +169,17 @@ We envision the further democratization of open-source software. The notion of f
     
 <tr>
     <td align="center">
-     <a href="https://github.com/enclaive/enclaive-docker-nodejs-sgx">
-      <img alt="nodejs-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-     </a>
-      <br>Nodejs-SGX</td>     
-    <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-nginx-sgx">
       <img alt="nginx-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
      </a>
       <br>Nginx-SGX</td>             
 </tr>
 <tr>
+ <td align="center">
+     <a href="https://github.com/enclaive/enclaive-docker-nodejs-sgx">
+      <img alt="nodejs-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+     </a>
+      <br>Nodejs-SGX</td>   
      <td align="center">
       <a href="https://github.com/enclaive/enclaive-docker-python-sgx">
        <img alt="python-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
