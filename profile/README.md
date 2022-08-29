@@ -9,7 +9,7 @@
 * 🔭 We build easy-to-use containers of the open-source stack with the extra power that the container application is fully memory encrypted at any moment in time during execution and can prove its confidential state to a third party like the owner of the container running it in the cloud
 * :100: Why/when use confidential containers
   * You have built some super cool application, your customer insists to host the application on premise, you fear of giving away the code ("intelectual property protection")
-  * You have built another super cool application, you host the application in the cloud, but your customers fear disclosing personal data ("data privacy", "data sovereignty")
+  * You have built another super cool application, you host the application in the cloud, but you and/or your customers fear disclosing personal data ("data privacy", "data sovereignty")
   * You have built yet another super application, you host the application, but you fear the security costs ("security expenses reduction")
 * 🕺 We combine Intel Security Guard Extension and open-source libOS technology to turn standard containers into confidential containers
 * ❤️ We love open-source software and want that many more users benefit from the awesomeness
