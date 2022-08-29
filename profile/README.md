@@ -58,8 +58,16 @@
     <a href="https://twitter.com/enclaive_io">Twitter</a>
     ·
     <a href="https://www.youtube.com/channel/UChuBVOzH6WY7d31UcqMgMLg">Youtube</a>
-    <br>
-  </p>
+    <br><br>
+ Community Page
+ <br>
+     <a href=https://enclaive.io/community/write-for-enclaive/)">Write for us</a>
+    ·
+    <a href="https://enclaive.io/community/introduction-articles/">Introduction Articles</a>
+    ·
+    <a href="https://enclaive.io/community/tutorials">Tutorials</a>
+    
+                                            
 
 
 ### In a nutshell
