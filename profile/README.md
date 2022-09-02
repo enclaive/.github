@@ -249,7 +249,10 @@ We envision the further democratization of open-source software. The notion of f
         <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
         <br>Wordpress</td> 
      </td>
-
+     <td align="center" width:"25%">
+        <a href="https://www.youtube.com/watch?v=8vNTEViE-dU"><img src="https://img.youtube.com/vi/8vNTEViE-dU/0.jpg"></img></a>
+        <br>Go</td> 
+     </td>
  </tr>
  </table>
       
