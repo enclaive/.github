@@ -178,14 +178,6 @@ We envision the further democratization of open-source software. The notion of f
         </a>
       <br>SQlite-SGX</td>   
 </tr>
-    
-<tr>
-    <td align="center">
-     <a href="https://github.com/enclaive/enclaive-docker-nginx-sgx">
-      <img alt="nginx-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-     </a>
-      <br>Nginx-SGX</td>             
-</tr>
 <tr>
  <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-nodejs-sgx">
@@ -207,11 +199,18 @@ We envision the further democratization of open-source software. The notion of f
      <img alt="go-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
      </a>
       <br>Go-SGX</td> 
-    <td align="center">
+      <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-php-sgx">
      <img alt="php-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
      </a>
-      <br>PHP-SGX</td>        
+      <br>PHP-SGX</td> 
+    </tr>
+    <tr>
+     <td align="center">
+     <a href="https://github.com/enclaive/enclaive-docker-ruby-sgx">
+     <img alt="ruby-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+     </a>
+      <br>Ruby-SGX</td>
     <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-java-sgx">
      <img alt="java-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -226,7 +225,12 @@ We envision the further democratization of open-source software. The notion of f
      <a href="https://github.com/enclaive/enclaive-docker-cpp-sgx">
      <img alt="cplusplus-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
      </a>
-      <br>Cpp-SGX</td>                                          
+      <br>Cpp-SGX</td> 
+          <td align="center">
+     <a href="https://github.com/enclaive/enclaive-docker-nginx-sgx">
+      <img alt="nginx-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+     </a>
+      <br>Nginx-SGX</td> 
 </tr>
 <tr>
     <td align="center">
