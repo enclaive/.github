@@ -233,6 +233,9 @@ We envision the further democratization of open-source software. The notion of f
       <br>Nginx-SGX</td> 
 </tr>
 <tr>
+
+
+
     <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx">
      <img alt="wordpress-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
@@ -249,13 +252,17 @@ We envision the further democratization of open-source software. The notion of f
 ### Confidential Containers in Action
 <table style="width:100%">
 <tr>
+     <td align="center" width:"25%">
+        <a href="https://www.youtube.com/watch?v=V-eIfAX0B7U"><img src="https://img.youtube.com/vi/V-eIfAX0B7U/0.jpg"></img></a>
+        <br>MongoDB-SGX keeps the import of passwords already encrypted while in use</td> 
+     </td>
     <td align="center" width:"25%">
         <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
-        <br>Wordpress</td> 
+        <br>Wordpress-SGX anonymizes the lookup of IP addresses</td> 
      </td>
      <td align="center" width:"25%">
         <a href="https://www.youtube.com/watch?v=8vNTEViE-dU"><img src="https://img.youtube.com/vi/8vNTEViE-dU/0.jpg"></img></a>
-        <br>Go</td> 
+        <br>HTTPS server written in golang prevents the access to X.509 certificate private key</td> 
      </td>
  </tr>
  </table>
