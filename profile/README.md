@@ -221,21 +221,28 @@ We envision the further democratization of open-source software. The notion of f
      <img alt="c-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
      </a>
      <br>C-SGX</td> 
-    <td align="center">
+     <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-cpp-sgx">
      <img alt="cplusplus-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
      </a>
       <br>Cpp-SGX</td> 
+     <td align="center">
+     <a href="https://github.com/enclaive/enclaive-docker-cs-sgx">
+     <img alt="csharp-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+     </a>
+      <br>Csharp-SGX</td> 
+</tr>
+<tr>      
+    <td align="center">
+     <a href="https://github.com/enclaive/enclaive-docker-mosquitto-sgx">
+     <img alt="mosquitto-sgx" height=64px src="https://raw.githubusercontent.com/eclipse/mosquitto/master/logo/mosquitto-logo-min.svg">
+     </a>
+      <br>Mosquitto-SGX</td> 
           <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-nginx-sgx">
       <img alt="nginx-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
      </a>
-      <br>Nginx-SGX</td> 
-</tr>
-<tr>
-
-
-
+      <br>Nginx-SGX</td>    
     <td align="center">
      <a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx">
      <img alt="wordpress-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
@@ -253,16 +260,16 @@ We envision the further democratization of open-source software. The notion of f
 <table style="width:100%">
 <tr>
      <td align="center" width:"25%">
-        <a href="https://www.youtube.com/watch?v=V-eIfAX0B7U"><img src="https://img.youtube.com/vi/V-eIfAX0B7U/0.jpg"></img></a>
-        <br>MongoDB-SGX keeps the import of passwords already encrypted while in use</td> 
+        <a href="https://www.youtube.com/watch?v=V-eIfAX0B7U"><img src="https://img.youtube.com/vi/V-eIfAX0B7U/0.jpg"</img></a>
+        <br>MongoDB-SGX processes the import query of passwords in encrypted memory 
      </td>
     <td align="center" width:"25%">
         <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
-        <br>Wordpress-SGX anonymizes the lookup of IP addresses</td> 
+        <br>Wordpress-SGX anonymizes the geo-lookup of IP addresses 
      </td>
      <td align="center" width:"25%">
         <a href="https://www.youtube.com/watch?v=8vNTEViE-dU"><img src="https://img.youtube.com/vi/8vNTEViE-dU/0.jpg"></img></a>
-        <br>HTTPS server written in golang prevents the access to X.509 certificate private key</td> 
+        <br>Go-SGX HTTPS server prevents the access to X.509 certificate private key
      </td>
  </tr>
  </table>
