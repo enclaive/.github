@@ -261,19 +261,24 @@ We envision the further democratization of open-source software. The notion of f
 <tr>
      <td width="25%" halign="center" valign="top">
          <a href="https://youtu.be/lY1E7m9aUoE"><img  src="https://img.youtube.com/vi/lY1E7m9aUoE/0.jpg"</img></a>
-         <br>MariaDB-SGX Data-in-Use encryption of SQL queries (<a href="https://github.com/enclaive/enclaive-docker-mariadb-sgx/tree/demo">read more</a>)
+         <br>MariaDB Data-in-Use encryption of SQL queries (<a href="https://github.com/enclaive/enclaive-docker-mariadb-sgx/tree/demo">read more</a>)
     </td>
      <td width="25%" halign="center" valign="top">
         <a href="https://www.youtube.com/watch?v=V-eIfAX0B7U"><img  src="https://img.youtube.com/vi/V-eIfAX0B7U/0.jpg"</img></a>
-        <br>MongoDB-SGX processes password import in encrypted memory (<a href="https://github.com/enclaive/enclaive-docker-mongodb-sgx/tree/demo">read more</a>)
+        <br>MongoDB Data-in-Use encyption of password insertion (<a href="https://github.com/enclaive/enclaive-docker-mongodb-sgx/tree/demo">read more</a>)
                                                                                                                                                   </td>
     <td width="25%" halign="center" valign="top">
         <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
-        <br>Wordpress-SGX anonymizes the geo-lookup of IP addresses (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)                                                                                           </td>
+        <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)                                                                                           </td>
      <td width="25%" halign="center" valign="top">
       <a href="https://www.youtube.com/watch?v=8vNTEViE-dU"><img    src="https://img.youtube.com/vi/8vNTEViE-dU/0.jpg"></img></a>
-        <br>Go-SGX HTTPS server prevents the access to X.509 certificate private key (<a href="https://github.com/enclaive/enclaive-docker-go-sgx/tree/demo">read more</a>)
+        <br>HTTPS server prevents the access to X.509 certificate private key (<a href="https://github.com/enclaive/enclaive-docker-go-sgx/tree/demo">read more</a>)
      </td>
+     <tr>
+       <td width="25%" halign="center" valign="top">
+      <a href="https://youtu.be/KrFgXp5BelI"><img    src="https://img.youtube.com/vi/KrFgXp5BelI/0.jpg"></img></a>
+        <br>Write a file into shared protected Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)
+     </tr>
  </tr>
  </table>
       
