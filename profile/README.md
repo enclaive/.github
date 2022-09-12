@@ -171,12 +171,14 @@ We envision the further democratization of open-source software. The notion of f
          <a href="https://github.com/enclaive/enclaive-docker-redis-sgx">
              <img alt="redis-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
         </a>
-      <br>Redis-SGX</td>  
+      <br>Redis-SGX</td> 
+      <!--
     <td align="center">
          <a href="https://github.com/enclaive/enclaive-docker-sqlite-sgx">
         <img alt="sqlite-sgx" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
         </a>
-      <br>SQlite-SGX</td>   
+      <br>SQlite-SGX</td> 
+      -->
 </tr>
 <tr>
  <td align="center">
@@ -277,9 +279,14 @@ We envision the further democratization of open-source software. The notion of f
      <tr>
        <td width="25%" halign="center" valign="top">
       <a href="https://youtu.be/KrFgXp5BelI"><img    src="https://img.youtube.com/vi/KrFgXp5BelI/0.jpg"></img></a>
-        <br>Write a file into shared protected Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)
+        <br>Write a file into shared protected Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)</td>
+        <td width="25%" halign="center" valign="top">
+      <a href="https://youtu.be/xsFEJV55VJY"><img    src="https://img.youtube.com/vi/xsFEJV55VJY/0.jpg"></img></a>
+        <br>ArangoDB Data-in-Use Encryption (<a href="https://github.com/enclaive/enclaive-docker-arangodb-sgx/tree/demo">read more</a>)</td>
      </tr>
  </tr>
  </table>
       
+      
+   
       
