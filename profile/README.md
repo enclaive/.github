@@ -274,7 +274,11 @@ We envision the further democratization of open-source software. The notion of f
     </td>
      <td width="25%" halign="center" valign="top">
         <a href="https://www.youtube.com/watch?v=V-eIfAX0B7U"><img  src="https://img.youtube.com/vi/V-eIfAX0B7U/0.jpg"</img></a>
-        <br>MongoDB Data-in-Use encyption of password insertion (<a href="https://github.com/enclaive/enclaive-docker-mongodb-sgx/tree/demo">read more</a>)<tr><td width="25%" halign="center" valign="top">
+        <br>MongoDB Data-in-Use encyption of password insertion (<a href="https://github.com/enclaive/enclaive-docker-mongodb-sgx/tree/demo">read more</a>)<tr>
+        <td width="25%" halign="center" valign="top">
+        <a href="https://youtu.be/khaC-vtteP8"><img  src="https://img.youtube.com/vi/khaC-vtteP8/0.jpg"></img></a>
+        <br>NodeJS Express and Protection against Runtime Leakage (<a href="https://github.com/enclaive/enclaive-docker-nodejs-sgx/tree/demo">read more</a>)</td>
+        <td width="25%" halign="center" valign="top">
         <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
         <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)</td>
        <td width="25%" halign="center" valign="top">
