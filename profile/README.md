@@ -17,8 +17,8 @@
   * You have built yet another super application, you host the application, and fear the security costs ("security expenses reduction")
 * 🕺 We combine Intel Security Guard Extension and open-source libOS technology to turn standard containers into confidential containers
 * ❤️ We love open-source software and want that many more users benefit from the awesomeness
-* 🤝 We aim to help open-source projects to extend their offerings with a managed, cost-effecitve, fully confidential and verifiable service thanks to the deployment in confidential containers in the public cloud
-* 🤔 We're looking for open-source projects interested in collaborting with us to package their service in confidential containers
+* 🤝 We aim to help open-source projects to close the last mile :100:
+* 🤔 We're looking for devs, devops, and (open-source) projects interested in collaborting with us to deploy their service in confidential containers
 * 📫 How to reach us: Best way is via email (contact@enclaive.io)
 * ⚡ Fun fact: the 'i' in enclaive stands for <u>i</u>nimitable pointing to the fact that whatever runs in confidential containers can't be copied
 
@@ -289,7 +289,7 @@ We envision the further democratization of open-source software. The notion of f
                                                                                                                                                              <td width="25%" halign="center" valign="top">
         <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
         <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)</td></tr>                                                                                                                                   
-                                                                                                                                            </table> <br><br> ...check also out the <it>demo branch</it> in other repos for more examples
+                                                                                                                                            </table> <br> ... for more examples check also out the demo branch of other repos 
       
       
    
