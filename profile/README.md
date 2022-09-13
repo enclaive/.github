@@ -262,7 +262,7 @@ We envision the further democratization of open-source software. The notion of f
 </tr>
 </table>
 
-### Clips: Confidential Containers in Action
+### Videos: Confidential Containers in Action
 <table style="width:100%">
 <tr>
      <td width="25%" halign="center" valign="top">
@@ -278,9 +278,6 @@ We envision the further democratization of open-source software. The notion of f
         <td width="25%" halign="center" valign="top">
         <a href="https://youtu.be/khaC-vtteP8"><img  src="https://img.youtube.com/vi/khaC-vtteP8/0.jpg"></img></a>
         <br>NodeJS Express and Protection against Runtime Leakage (<a href="https://github.com/enclaive/enclaive-docker-nodejs-sgx/tree/demo">read more</a>)</td>
-        <td width="25%" halign="center" valign="top">
-        <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
-        <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)</td>
        <td width="25%" halign="center" valign="top">
       <a href="https://youtu.be/KrFgXp5BelI"><img    src="https://img.youtube.com/vi/KrFgXp5BelI/0.jpg"></img></a>
         <br>Write a file into shared protected Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)</td>
@@ -288,8 +285,11 @@ We envision the further democratization of open-source software. The notion of f
       <a href="https://www.youtube.com/watch?v=8vNTEViE-dU"><img    src="https://img.youtube.com/vi/8vNTEViE-dU/0.jpg"></img></a>
         <br>HTTPS server prevents the access to X.509 certificate private key (<a href="https://github.com/enclaive/enclaive-docker-go-sgx/tree/demo">read more</a>)
      </td>
- </tr>
- </table>
+                                                                                                                                                     </tr><tr>
+                                                                                                                                                             <td width="25%" halign="center" valign="top">
+        <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
+        <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)</td></tr>                                                                                                                                   
+                                                                                                                                            </table> <br><br> ...check also out the <it>demo branch</it> in other repos for more examples
       
       
    
