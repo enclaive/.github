@@ -152,7 +152,7 @@ We envision the further democratization of open-source software. The notion of f
    <br><br>
 </details> 
 
-### Our main projects
+### Our main projects ("The Base")
 
 <table>
 <tr>
