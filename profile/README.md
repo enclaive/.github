@@ -264,7 +264,10 @@ We envision the further democratization of open-source software. The notion of f
 
 ### Videos: Confidential Containers in Action
 <table style="width:100%">
-<tr>
+<tr> 
+     <td width="25%" halign="center" valign="top">
+      <a href="https://youtu.be/qnugkIExe9w"><img    src="https://img.youtube.com/vi/qnugkIExe9w/0.jpg"></img></a>
+        <br>Dumping the Redis Memory while in Use (<a href="https://github.com/enclaive/enclaive-docker-redis-sgx/tree/demo">read more</a>)</td>
      <td width="25%" halign="center" valign="top">
       <a href="https://youtu.be/xsFEJV55VJY"><img    src="https://img.youtube.com/vi/xsFEJV55VJY/0.jpg"></img></a>
         <br>ArangoDB Data-in-Use Encryption (<a href="https://github.com/enclaive/enclaive-docker-arangodb-sgx/tree/demo">read more</a>)</td>
