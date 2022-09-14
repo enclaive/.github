@@ -269,18 +269,22 @@ We envision the further democratization of open-source software. The notion of f
       <a href="https://youtu.be/qnugkIExe9w"><img    src="https://img.youtube.com/vi/qnugkIExe9w/0.jpg"></img></a>
         <br>Dumping the Redis Memory while in Use (<a href="https://github.com/enclaive/enclaive-docker-redis-sgx/tree/demo">read more</a>)</td>
      <td width="25%" halign="center" valign="top">
-      <a href="https://youtu.be/xsFEJV55VJY"><img    src="https://img.youtube.com/vi/xsFEJV55VJY/0.jpg"></img></a>
-        <br>ArangoDB Data-in-Use Encryption (<a href="https://github.com/enclaive/enclaive-docker-arangodb-sgx/tree/demo">read more</a>)</td>
-     <td width="25%" halign="center" valign="top">
          <a href="https://youtu.be/lY1E7m9aUoE"><img  src="https://img.youtube.com/vi/lY1E7m9aUoE/0.jpg"</img></a>
          <br>MariaDB Data-in-Use encryption of SQL queries (<a href="https://github.com/enclaive/enclaive-docker-mariadb-sgx/tree/demo">read more</a>)
     </td>
      <td width="25%" halign="center" valign="top">
         <a href="https://www.youtube.com/watch?v=V-eIfAX0B7U"><img  src="https://img.youtube.com/vi/V-eIfAX0B7U/0.jpg"</img></a>
-        <br>MongoDB Data-in-Use encyption of password insertion (<a href="https://github.com/enclaive/enclaive-docker-mongodb-sgx/tree/demo">read more</a>)<tr>
+        <br>MongoDB Data-in-Use encyption of password insertion (<a href="https://github.com/enclaive/enclaive-docker-mongodb-sgx/tree/demo">read more</a>)
+         <td width="25%" halign="center" valign="top">
+      <a href="https://youtu.be/xsFEJV55VJY"><img    src="https://img.youtube.com/vi/xsFEJV55VJY/0.jpg"></img></a>
+        <br>ArangoDB Data-in-Use Encryption (<a href="https://github.com/enclaive/enclaive-docker-arangodb-sgx/tree/demo">read more</a>)</td>
+        <tr>
         <td width="25%" halign="center" valign="top">
         <a href="https://youtu.be/khaC-vtteP8"><img  src="https://img.youtube.com/vi/khaC-vtteP8/0.jpg"></img></a>
         <br>NodeJS Express and Protection against Runtime Leakage (<a href="https://github.com/enclaive/enclaive-docker-nodejs-sgx/tree/demo">read more</a>)</td>
+               <td width="25%" halign="center" valign="top">
+      <a href="https://youtu.be/djoKSx2T3H0"><img    src="https://img.youtube.com/vi/djoKSx2T3H0/0.jpg"></img></a>
+        <br>Attempt to modify protected Volume/Files (<a href="https://github.com/enclaive/enclaive-docker-cs-sgx/tree/demo">read more</a>)</td>
        <td width="25%" halign="center" valign="top">
       <a href="https://youtu.be/KrFgXp5BelI"><img    src="https://img.youtube.com/vi/KrFgXp5BelI/0.jpg"></img></a>
         <br>Write a file into shared protected Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)</td>
