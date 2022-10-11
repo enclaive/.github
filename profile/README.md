@@ -2,7 +2,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/enclaive?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)](https://twitter.com/enclaive_io)
-![Discord Shield](https://discordapp.com/api/guilds/1019995230130413668/widget.png?style=shield)
+[![Discord Shield](https://discordapp.com/api/guilds/1019995230130413668/widget.png?style=shield)](https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect)
 ![enclaive.io](/images/container.jpeg)
 
 
