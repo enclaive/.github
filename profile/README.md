@@ -2,7 +2,9 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/enclaive?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)](https://twitter.com/enclaive_io)
+![Discord Shield](https://discordapp.com/api/guilds/1019995230130413668/widget.png?style=shield)
 ![enclaive.io](/images/container.jpeg)
+
 
 # TL;TR
 * 👂 We are enclaive, pronounced /ˈɛnkleɪv/ 
@@ -19,7 +21,7 @@
 * ❤️ We love open-source software and want that many more users benefit from the awesomeness
 * 🤝 We aim to help open-source projects to close the last mile :100:
 * 🤔 We're looking for devs, devops, and (open-source) projects interested in collaborting with us to deploy their service in confidential containers
-* 📫 How to reach us: Best way is via email (contact@enclaive.io)
+* 📫 How to reach us: Best way is via email (contact@enclaive.io) or  <a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">discord</a>
 * ⚡ Fun fact: the 'i' in enclaive stands for <u>i</u>nimitable pointing to the fact that whatever runs in confidential containers can't be copied
 
 # TL;DR
@@ -143,7 +145,7 @@ We envision the further democratization of open-source software. The notion of f
 <details><summary>Contribution</summary>
     <br>   
     enclaive solicites any contribution that brings confidential containers to application. 
-    Get in touch with us via email (contact@enclaive.io) or twitter (enclaive_io).
+    Get in touch with us via email (contact@enclaive.io), twitter (enclaive_io) or discord.
     <br><br>
 </details> 
 <details><summary>Getting Started</summary>
@@ -297,7 +299,13 @@ We envision the further democratization of open-source software. The notion of f
         <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
         <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)</td></tr>                                                                                                                                   
                                                                                                                                             </table> <br> ... for more examples check also out the demo branch of other repos 
-      
-      
    
-      
+   
+## For AMA, join Discord 
+
+We believe in community efforts. If you want to stop by for some java, get to know us, get pointers to how get started, seek support or help with your own project, you find us on ...
+<br>
+<br>
+<a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">
+<img src="https://discordapp.com/api/guilds/1019995230130413668/widget.png?style=banner4" alt="Discord Banner 4"/>
+</a>      
