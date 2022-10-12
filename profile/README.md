@@ -268,30 +268,30 @@ We envision the further democratization of open-source software. The notion of f
 <table style="width:100%">
 <tr> 
      <td width="25%" halign="center" valign="top">
-      <a href="https://youtu.be/qnugkIExe9w"><img    src="https://img.youtube.com/vi/qnugkIExe9w/0.jpg"></img></a>
+      <a href="https://youtu.be/SoKIo0kIg_4"><img    src="https://img.youtube.com/vi/SoKIo0kIg_4/0.jpg"></img></a>
         <br>Dumping the Redis Memory while in Use (<a href="https://github.com/enclaive/enclaive-docker-redis-sgx/tree/demo">read more</a>)</td>
      <td width="25%" halign="center" valign="top">
          <a href="https://youtu.be/PI2PosrdrCk"><img  src="https://img.youtube.com/vi/PI2PosrdrCk/0.jpg"</img></a>
          <br>MariaDB Data-in-Use encryption of SQL queries (<a href="https://github.com/enclaive/enclaive-docker-mariadb-sgx/tree/demo">read more</a>)
     </td>
      <td width="25%" halign="center" valign="top">
-        <a href="https://www.youtube.com/watch?v=V-eIfAX0B7U"><img  src="https://img.youtube.com/vi/V-eIfAX0B7U/0.jpg"</img></a>
+        <a href="https://www.youtube.com/watch?v=3FCULfBqFN0"><img  src="https://img.youtube.com/vi/3FCULfBqFN0/0.jpg"</img></a>
         <br>MongoDB Data-in-Use encyption of password insertion (<a href="https://github.com/enclaive/enclaive-docker-mongodb-sgx/tree/demo">read more</a>)
          <td width="25%" halign="center" valign="top">
       <a href="https://youtu.be/v0CmPF9YzQ4"><img    src="https://img.youtube.com/vi/v0CmPF9YzQ4/0.jpg"></img></a>
         <br>ArangoDB Data-in-Use Encryption (<a href="https://github.com/enclaive/enclaive-docker-arangodb-sgx/tree/demo">read more</a>)</td>
         <tr>
         <td width="25%" halign="center" valign="top">
-        <a href="https://youtu.be/khaC-vtteP8"><img  src="https://img.youtube.com/vi/khaC-vtteP8/0.jpg"></img></a>
+        <a href="https://youtu.be/Q9EGCAQUC4U"><img  src="https://img.youtube.com/vi/Q9EGCAQUC4U/0.jpg"></img></a>
         <br>NodeJS Express and Protection against Runtime Leakage (<a href="https://github.com/enclaive/enclaive-docker-nodejs-sgx/tree/demo">read more</a>)</td>
                <td width="25%" halign="center" valign="top">
-      <a href="https://youtu.be/djoKSx2T3H0"><img    src="https://img.youtube.com/vi/djoKSx2T3H0/0.jpg"></img></a>
+      <a href="https://youtu.be/RnZjhZinOE8"><img    src="https://img.youtube.com/vi/RnZjhZinOE8/0.jpg"></img></a>
         <br>Attempt to modify protected Volume/Files (<a href="https://github.com/enclaive/enclaive-docker-cs-sgx/tree/demo">read more</a>)</td>
        <td width="25%" halign="center" valign="top">
       <a href="https://youtu.be/KrFgXp5BelI"><img    src="https://img.youtube.com/vi/KrFgXp5BelI/0.jpg"></img></a>
         <br>Write a file into shared protected Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)</td>
                                                                                                                                <td width="25%" halign="center" valign="top">
-      <a href="https://www.youtube.com/watch?v=8vNTEViE-dU"><img    src="https://img.youtube.com/vi/8vNTEViE-dU/0.jpg"></img></a>
+      <a href="https://www.youtube.com/watch?v=GCe4HKyq1X0"><img    src="https://img.youtube.com/vi/GCe4HKyq1X0/0.jpg"></img></a>
         <br>HTTPS server prevents the access to X.509 certificate private key (<a href="https://github.com/enclaive/enclaive-docker-go-sgx/tree/demo">read more</a>)
      </td>
                                                                                                                                                      </tr><tr>
