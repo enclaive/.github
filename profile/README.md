@@ -306,6 +306,6 @@ We envision the further democratization of open-source software. The notion of f
 We believe in community efforts. If you want to stop by for some java, get to know us, get pointers to how get started, seek support or help with your own project, you find us on ...
 <br>
 <br>
-<a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">
+<a href="https://discord.gg/Su5Mzgu4TG">
 <img src="https://github.com/enclaive/.github/blob/main/images/discord.png" alt="Discord Banner 4"/>
 </a>      
