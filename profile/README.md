@@ -307,5 +307,5 @@ We believe in community efforts. If you want to stop by for some java, get to kn
 <br>
 <br>
 <a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">
-<img src="https://discordapp.com/api/guilds/1019995230130413668/widget.png?style=banner4" alt="Discord Banner 4"/>
+<img src="https://github.com/enclaive/.github/blob/main/images/discord.png" alt="Discord Banner 4"/>
 </a>      
