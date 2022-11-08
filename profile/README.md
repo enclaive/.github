@@ -288,15 +288,15 @@ We envision the further democratization of open-source software. The notion of f
       <a href="https://youtu.be/RnZjhZinOE8"><img    src="https://img.youtube.com/vi/RnZjhZinOE8/0.jpg"></img></a>
         <br>Attempt to modify protected Volume/Files (<a href="https://github.com/enclaive/enclaive-docker-cs-sgx/tree/demo">read more</a>)</td>
        <td width="25%" halign="center" valign="top">
-      <a href="https://youtu.be/KrFgXp5BelI"><img    src="https://img.youtube.com/vi/KrFgXp5BelI/0.jpg"></img></a>
-        <br>Write a file into shared protected Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)</td>
+      <a href="https://youtu.be/quzkMBYK-N8"><img    src="https://img.youtube.com/vi/KrFgXp5BelI/0.jpg"></img></a>
+        <br>Write a file into shared encrypted Volume (<a href="https://github.com/enclaive/enclaive-docker-ruby-sgx/tree/demo">read more</a>)</td>
                                                                                                                                <td width="25%" halign="center" valign="top">
       <a href="https://www.youtube.com/watch?v=GCe4HKyq1X0"><img    src="https://img.youtube.com/vi/GCe4HKyq1X0/0.jpg"></img></a>
         <br>HTTPS server prevents the access to X.509 certificate private key (<a href="https://github.com/enclaive/enclaive-docker-go-sgx/tree/demo">read more</a>)
      </td>
                                                                                                                                                      </tr><tr>
                                                                                                                                                              <td width="25%" halign="center" valign="top">
-        <a href="https://www.youtube.com/watch?v=DbxZuflYtC8"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
+        <a href="https://youtu.be/Znic-Ci2q4s"><img  src="https://img.youtube.com/vi/DbxZuflYtC8/0.jpg"></img></a>
         <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)</td></tr>                                                                                                                                   
                                                                                                                                             </table> <br> ... for more examples check also out the demo branch of other repos 
    
