@@ -133,7 +133,7 @@ We envision the further democratization of open-source software. The notion of f
    <br><br>
 </details> 
 
-### Our main projects ("The Base")
+### Our confidential apps ("The Base")
 
 <table>
 <tr>
@@ -245,7 +245,7 @@ We envision the further democratization of open-source software. The notion of f
 
 ## Videos on Youtube
 
-### Getting Started with Confidential Compute
+### Get Started with Confidential Compute
 <table>
 <tr>
     <td align="center" width:"25%">
@@ -259,7 +259,7 @@ We envision the further democratization of open-source software. The notion of f
  </tr>
  </table>
 
-### Videos: Confidential Apps in Action
+### Confidential Apps in Action
 <table style="width:100%">
 <tr> 
      <td width="25%" halign="center" valign="top">
