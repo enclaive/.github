@@ -241,6 +241,14 @@ We envision the further democratization of open-source software. The notion of f
      </a>
      <br>Umami-SGX</td>
 </tr>
+     <tr>                                                                                                                                     <tr> 
+      <td align="center">
+        <a href="https://github.com/enclaive/enclaive-docker-hashicorp-vault-sgx">
+          <img alt="hashicorp-vault-sgx" height=64px src="https://raw.githubusercontent.com/docker-library/docs/90d4d43bdfccd5cb21e5fd964d32b0074af0f357/vault/logo.svg?sanitize=true">
+        </a>
+        <br>Always encrypted <br> Hashicorp Vault</td>     
+      </td>  
+    </tr>
 </table>
 
 ## Videos on Youtube
