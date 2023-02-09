@@ -1,44 +1,24 @@
-# Welcome to enclaive - Home of Confidential Compute Containers 👋 
+# Welcome to enclaive - Home of Confidential Compute technologies 👋 
 
-![GitHub Org's stars](https://img.shields.io/github/stars/enclaive?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/enclaive_io?style=social)](https://twitter.com/enclaive_io)
-[![Discord Shield](https://discordapp.com/api/guilds/1019995230130413668/widget.png?style=shield)](https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect)
 ![enclaive.io](/images/container.jpeg)
-
 
 # TL;TR
 * 👂 We are enclaive, pronounced /ˈɛnkleɪv/ 
-* 🔭 We build easy-to-use containers of the open-source stack with the extra power that the container application is fully memory encrypted at any moment in time during execution and can prove its confidential state to a third party like the owner of the container running it in the cloud
-* :100: Why/when use confidential containers
+* 🔭 We build easy-to-use tools to deploy open-source applications anywhere with the extra power that applications are fully memory encrypted at any moment in time during execution and can prove the confidential state to a third party
+* :100: Why use confidential apps?
   * You care about data and application security and privacy, respectively
   * You distrust the hosting/cloud provider
-  * You run in a multi-cloud environement and want to reduce the hardware complexity with hardware-graded software (instead of hardware) isolation
-  * You have unused compute ressources (e.g. private data center) and want to share the ressources while giving users the necessary trust
+* 🤓 What are use cases?  
   * You have built some super cool application, your users insists to host the application on premise, you fear of giving away the code ("intelectual property protection")
   * You have built another super cool application, you host the application in the cloud, and you and/or your users fear disclosing personal data ("data privacy", "data sovereignty")
   * You have built yet another super application, you host the application, and fear the security costs ("security expenses reduction")
 * 🕺 We combine Intel Security Guard Extension and open-source libOS technology to turn standard containers into confidential containers
-* ❤️ We love open-source software and want that many more users benefit from the awesomeness
+* ❤️ We love open-source software and want that many more users benefit from enclaved applications
 * 🤝 We aim to help open-source projects to close the last mile :100:
-* 🤔 We're looking for devs, devops, and (open-source) projects interested in collaborting with us to deploy their service in confidential containers
-* 📫 How to reach us: Best way is via email (contact@enclaive.io) or  <a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">discord</a>
+* 📫 How to reach us: Best way is via <a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">discord</a>
 * ⚡ Fun fact: the 'i' in enclaive stands for <u>i</u>nimitable pointing to the fact that whatever runs in confidential containers can't be copied
 
-# TL;DR
- <a href="https://www.youtube.com/channel/UChuBVOzH6WY7d31UcqMgMLg">
- <img src="https://img.shields.io/youtube/channel/views/UChuBVOzH6WY7d31UcqMgMLg?style=social">
- </a>
-<table style="width:100%">
-<tr>
-    <td align="center" width:"25%">
-        <a href="https://www.youtube.com/watch?v=LZ10X1AlnJs"><img src="https://img.youtube.com/vi/LZ10X1AlnJs/0.jpg"></img></a>
-        <br>104s introduction to confidential compute</td> 
-     </td>
-
- </tr>
- </table>
-      
-
+     
 # Organization
 
 <div align=center>
@@ -46,10 +26,10 @@
     <tr> 
       <td align="center">
         <a href="https:/enclaive.io">
-<img alt="enclaive-logo" height=64px src="https://avatars.githubusercontent.com/u/79869513">
-</a>
+        <img alt="enclaive-logo" height=64px src="https://avatars.githubusercontent.com/u/79869513">
+        </a>
         <br>enclaive.io</td>     
-      </td>  
+      </td> 
     </tr>
     </table>
 </div>
@@ -64,7 +44,8 @@
     <a href="https://twitter.com/enclaive_io">Twitter</a>
     ·
     <a href="https://www.youtube.com/channel/UChuBVOzH6WY7d31UcqMgMLg">Youtube</a>
-    <br><br>
+    <br>  
+    <br>
  Community Page
  <br>
      <a href=https://enclaive.io/community/write-for-enclaive/)">Write for us</a>
@@ -74,8 +55,6 @@
     <a href="https://enclaive.io/community/tutorials">Tutorials</a>
     
                                             
-
-
 ### In a nutshell
 <details>
 <summary>Motivation </summary>
@@ -264,7 +243,23 @@ We envision the further democratization of open-source software. The notion of f
 </tr>
 </table>
 
-### Videos: Confidential Containers in Action
+## Videos on Youtube
+
+### Getting Started with Confidential Compute
+<table>
+<tr>
+    <td align="center" width:"25%">
+        <a href="https://www.youtube.com/watch?v=LZ10X1AlnJs"><img src="https://img.youtube.com/vi/LZ10X1AlnJs/0.jpg"></img></a>
+        <br>104s introduction to confidential compute</td> 
+     </td>
+         <td align="center" width:"25%">
+        <a href="https://youtu.be/0iID6N4oySA"><img src="https://img.youtube.com/vi/0iID6N4oySA/0.jpg"></img></a>
+        <br>How CTOs/CISOs become superheros </td> 
+
+ </tr>
+ </table>
+
+### Videos: Confidential Apps in Action
 <table style="width:100%">
 <tr> 
      <td width="25%" halign="center" valign="top">
@@ -299,7 +294,23 @@ We envision the further democratization of open-source software. The notion of f
         <a href="https://youtu.be/Znic-Ci2q4s"><img  src="https://img.youtube.com/vi/Znic-Ci2q4s/0.jpg"></img></a>
         <br>Wordpress anonymizes the IP-to-geolocation lookup (<a href="https://github.com/enclaive/enclaive-docker-wordpress-sgx/tree/demo">read more</a>)</td></tr>                                                                                                                                   
                                                                                                                                             </table> <br> ... for more examples check also out the demo branch of other repos 
-   
+ 
+ 
+### Tutorials, Conference Talks, ...
+<table>
+<tr>
+     </td>
+       <td align="center" width:"25%">
+        <a href="https://youtu.be/ByqHPSYtHqg"><img src="https://img.youtube.com/vi/ByqHPSYtHqg/0.jpg"></img></a>
+        <br>FOSDEM'23 Tutorial: Build confidential cloud applications with THE BASE</td> 
+     </td>
+        <td align="center" width:"25%">
+        <a href="https://youtu.be/ErVvnlypo68"><img src="https://img.youtube.com/vi/ErVvnlypo68/0.jpg"></img></a>
+        <br>PortcainerCC Tutorial: build, deploy, attest, and provision MariaDB in Azure Confidential Cloud</td> 
+     </td>
+</tr>
+
+</table>
    
 ## For AMA, join Discord 
 
