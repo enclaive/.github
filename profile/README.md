@@ -1,19 +1,19 @@
-# Welcome to enclaive - Home of Confidential Compute technologies 👋 
+# Welcome to enclaive - Home of Confidential Compute Containers 👋 
 
 ![enclaive.io](/images/container.jpeg)
 
 # TL;TR
 * 👂 We are enclaive, pronounced /ˈɛnkleɪv/ 
-* 🔭 We build easy-to-use tools to deploy open-source applications anywhere with the extra power that applications are fully memory encrypted at any moment in time during execution and can prove the confidential state to a third party
+* 🔭 We build easy-to-use tools to deploy open-source applications anywhere with the extra power that applications are memory encrypted at any moment in time during execution and can prove the confidential state to a third party
 * :100: Why use confidential apps?
   * You care about data and application security and privacy, respectively
   * You distrust the hosting/cloud provider
 * 🤓 What are use cases?  
-  * You have built some super cool application, your users insists to host the application on premise, you fear of giving away the code ("intelectual property protection")
+  * You have built some super cool application, but your users insist to host the application on-premise, and you fear giving away the code ("intellectual property protection")
   * You have built another super cool application, you host the application in the cloud, and you and/or your users fear disclosing personal data ("data privacy", "data sovereignty")
-  * You have built yet another super application, you host the application, and fear the security costs ("security expenses reduction")
-* 🕺 We combine Intel Security Guard Extension and open-source libOS technology to turn standard containers into confidential containers
-* ❤️ We love open-source software and want that many more users benefit from enclaved applications
+  * You have built yet another super application, you host the application and fear the security costs ("security expenses reduction")
+* 🕺 We combine Intel Security Guard Extension/Trusted Domain Extension and open-source libOS technology to turn standard containers into confidential containers
+* ❤️ We love open-source software and want that many more users to benefit from enclaved applications
 * 🤝 We aim to help open-source projects to close the last mile :100:
 * 📫 How to reach us: Best way is via <a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">discord</a>
 * ⚡ Fun fact: the 'i' in enclaive stands for <u>i</u>nimitable pointing to the fact that whatever runs in confidential containers can't be copied
@@ -34,7 +34,7 @@
     </table>
 </div>
 
-<h3 align="center">Home of Confidential Compute Containers</h3>
+<h3 align="center">Home of Confidential Compute </h3>
 
   <p align="center">
     <a href="https://github.com/enclaive/.github/edit/main/profile/README.md#confidential-containers-in-action">Demo Videos</a>
@@ -61,15 +61,15 @@
 <br>
 Let's be frank. Open-source software is awesome! So many projects have been created in the last decades that shaped the entire software industry. Even enterprises have realized the value and importance of open-source software. Instead of reinventing the wheel and writing proprietary software from scratch, enterprises deploy open-source software to build business applications. The enterprise-wide acceptance of open-source software has helped many community projects to establish a sustainable business model around, paving the ground to make a living out of a passionate idea. 
 <br></br>
-Open-source projects employ a variety of business models to solve the challenge of how to make money providing software that is by definition licensed free of charge. Each of these business strategies rests on the premise that users of open-source technologies are willing to purchase additional software features under proprietary licenses, or purchase other services or elements of value that complement the open-source software that is core to the business. This additional value can be, but not limited to, enterprise-grade features and up-time guarantees (often via a service-level agreement) to satisfy business or compliance requirements, performance and efficiency gains by features not yet available in the open source version, legal protection (e.g., indemnification from copyright or patent infringement), or professional support/training/consulting that are typical of proprietary software applications. 
+Open-source projects employ a variety of business models to solve the challenge of how to make money by providing software that is by definition licensed free of charge. Each of these business strategies rests on the premise that users of open-source technologies are willing to purchase additional software features under proprietary licenses or purchase other services or elements of value that complement the open-source software that is core to the business. This additional value can be, but is not limited to, enterprise-grade features and up-time guarantees (often via a service-level agreement) to satisfy business or compliance requirements, performance and efficiency gains by features not yet available in the open source version, legal protection (e.g., indemnification from copyright or patent infringement), or professional support/training/consulting that are typical of proprietary software applications. 
 <br></br>
-In recent years we see a growing interest for <b>managed services</b>. Enterprises use the software without the burden of being in charge of the hosting infrastracture and its availability, as well as the updatability and security of the software. Although enterprises have numerous benefits from managed offerings, they are hesistant! The key reason is lack of control. Granting a third party the permission to manage software applications, raises a lot of trust, security, privacy and compliance issues what does not go along with enterprise policies. In some cases, in which IT resources are scarce, managed services are desperately desired, however they are ruled out strictly due to the named reasons. Software companies are thus left with the provisioning of first, second and third level support and are taken the ability to scale.
+In recent years we see a growing interest in <b>managed services</b>. Enterprises use the software without the burden of being in charge of the hosting infrastructure and its availability, as well as the updatability and security of the software. Although enterprises have numerous benefits from managed offerings, they are hesitant! The key reason is the lack of control. Granting a third party permission to manage software applications, raises a lot of trust, security, privacy, and compliance issues that do not go along with enterprise policies. In some cases, in which IT resources are scarce, managed services are desperately desired, however, they are ruled out strictly due to the named reasons. Software companies are thus left with the provisioning of first, second, and third-level support and are taken the ability to scale.
 <br><br>
 </details>
 <details>
 <summary>Mission </summary>
 <br>
-Our mission is to make open-source software deployable everywhere by everyone. By everyone we mean any individual, any business or any industry. By everywhere we mean any execution platform, be it private or be it public. 
+Our mission is to make open-source software deployable everywhere by everyone. By everyone, we mean any individual, any business or any industry. By everywhere we mean any execution platform, be it private or be it public. 
 We envision the further democratization of open-source software. The notion of free choice behind open-source software extends to free deployment. No one should be stopped from using open-source software anywhere. 
 <br><br>
 </details>
@@ -77,22 +77,22 @@ We envision the further democratization of open-source software. The notion of f
     <br>
     <details><summary>TL;TR</summary>
     <br>
-        Confidenital Containers execute programs with the addition that 
+        Confidential Containers execute programs with the addition that 
          <br>
          <ul>
           <li>at any moment in time throughout the execution the process runs in encrypted memory  </li>    
           <li>the authenticity of the confidential execution is verifiable </li>
         </ul>
-        They are compatible with Docker, Docker Swarm and Kubernetes.
+        They are compatible with Docker, Docker Swarm, and Kubernetes.
         <br><br>
     </details>
     <details><summary>A Primer: How does it work?</summary>
         <br>        
         <p>Hardware-graded Security</p>
-        Confidential Containers leverage Intel's Security Guard Extension (SGX) technology, enriching the processor architecture with special registers for key storage and cryptoraphic algorithms as well as a memory management unit with the ability to allocate physical memory for encrypted processes, called enclaves. It is important to note solely the CPU has the capability to decrypt processes running in encrypted memory;  key material is generated at random during boot and inaccessible through software.
+        Confidential Containers leverage Intel's Security Guard Extension (SGX) technology, enriching the processor architecture with special registers for key storage and cryptographic algorithms as well as a memory management unit with the ability to allocate physical memory for encrypted processes, called enclaves. It is important to note solely the CPU has the capability to decrypt processes running in encrypted memory;  key material is generated at random during boot and inaccessible through software.
         <br><br>
         <p>Threat Model</p>
-        Exactly the hardware-graded isolation fortifies program executions in untrusted environments. By design Confidential Containers protect enclaved processes against malicious/corrupted   
+        Exactly the hardware-graded isolation fortifies program executions in untrusted environments. By design, Confidential Containers protect enclaved processes against malicious/corrupted   
         <br>
         <ul>
         <li>nested applications </li>
@@ -100,13 +100,13 @@ We envision the further democratization of open-source software. The notion of f
         <li>kernel </li>
         <li>bootloader </li>
         </ul>   
-        caused by attacks leading to container esacalation including buffer overflow, return oriented programing, spectre, meltdown, rowhammer and various forms of rootkits. 
+        caused by attacks leading to container escalation including buffer overflow, return-oriented programing, specter, meltdown, row hammer, and various forms of rootkits. 
         <br><br>
         <p>Local and Remote Attestation</p>
-        In untrusted execution environments memory encryption is insufficient. Malicious environments may replace the container before execution. To this end, confindential containers have a unique cryptographic identity. During the container build process the author signs the application. With the corresponding key material one can verify the authenticity of the confidential container. Local attestation is a supported cryptographic protocol to locally verify the container authenticity. Here, the CPU takes the role of a trusted auditor. It measures the fingerprint of the enclaved application. Remote attestation goes one step further and allows a client to verify the authenticity. The protocol resembles the concept of local attestation and generate a cryptographic report (kinda an X.509 certificate). The aim is proving to a remote party that the platform has executed the right container. Thus, the ideal use case for remote attestation is the assurance of proper container execution in public clouds.   
+        In untrusted execution environments memory encryption is insufficient. Malicious environments may replace the container before execution. To this end, confidential containers have a unique cryptographic identity. During the container build process, the author signs the application. With the corresponding key material, one can verify the authenticity of the confidential container. Local attestation is a supported cryptographic protocol to locally verify the container's authenticity. Here, the CPU takes the role of a trusted auditor. It measures the fingerprint of the enclaved application. Remote attestation goes one step further and allows a client to verify the authenticity. The protocol resembles the concept of local attestation and generates a cryptographic report (kinda an X.509 certificate). The aim is to prove to a remote party that the platform has executed the right container. Thus, the ideal use case for remote attestation is the assurance of proper container execution in public clouds.   
         <br><br>
         <p>Key Management and Key Provisioning</p>
-        Confidential containers load like off-the-shelf containers a program into the memory before execution. While remote attestation safeguards the authenticity and integrity, the approach does not prevent the untrusted environment from scrutinizing the container including the file system. For example, a Web server container is typically packaged with the server's SSL/TLS certificate and secret key. In the light of untrusted environments this approach is vulnerable and requires additional measures. A rule of thumb is to avoid to include any secrets to the confidential container. As argued before, the untrusted environment may reverse engineer the secret from the container image. The solution chosen for confidential containers is to load the application into the encrypted memory without secrets. Before running the program a pre-main process loads from a key management server the secrets through a secure channel protocol, stores them in the enclave, and continues with the main execution. A bit more concrete, the key management server first remotely attests it talks to the right container and that the container is within encrypted memory before establishing a TLS connection into the enclave to transport the secrets. The protocol is referred to as secret key provisioning and aims to mutually authenticate key provider and container before sending the secret.  
+        Confidential containers load like off-the-shelf containers a program into the memory before execution. While remote attestation safeguards authenticity and integrity, the approach does not prevent the untrusted environment from scrutinizing the container including the file system. For example, a Web server container is typically packaged with the server's SSL/TLS certificate and secret key. In light of untrusted environments, this approach is vulnerable and requires additional measures. A rule of thumb is to avoid including any secrets to the confidential container. As argued before, the untrusted environment may reverse engineer the secret from the container image. The solution chosen for confidential containers is to load the application into the encrypted memory without secrets. Before running the program a pre-main process loads from a key management server the secrets through a secure channel protocol, stores them in the enclave, and continues with the main execution. A bit more concrete, the key management server first remotely attests it talks to the right container and that the container is within encrypted memory before establishing a TLS connection into the enclave to transport the secrets. The protocol is referred to as secret key provisioning and aims to mutually authenticate the key provider and container before sending the secret.  
         <br><br>
     </details>  
     <details><summary>Platform Prerequisites</summary>
@@ -116,24 +116,24 @@ We envision the further democratization of open-source software. The notion of f
         <ul>
         <li>SGX2 enabled CPUs (Intel skylake and newer)</li>
         <li>installed drivers (streamlined in Linux kernel 5.11+)</li>
-        <li>docker, docker-compose, kubernetes or compatible container platform
+        <li>docker, docker-compose, Kubernetes or compatible container platform
         </ul>   
     </details>  
      <br>
 </details>
 <details><summary>Contribution</summary>
     <br>   
-    enclaive solicites any contribution that brings confidential containers to application. 
-    Get in touch with us via email (contact@enclaive.io), twitter (enclaive_io) or discord.
+    enclaive solicits any contribution that brings confidential containers to the application. 
+    Get in touch with us via email (contact@enclaive.io), Twitter (enclaive_io), or Discord.
     <br><br>
 </details> 
 <details><summary>Getting Started</summary>
     <br>    
-   We suggest you look into the wiki (tbd) to familiarize with the underlying technology and get the first containers packaged by enclaive running.
+   We suggest you look into the wiki (tbd) to familiarize yourself with the underlying technology and get the first containers packaged by enclaive running.
    <br><br>
 </details> 
 
-### Our confidential compute management and orchastration platform ("PortainerCC")
+### Our confidential compute management and orchestration platform ("PortainerCC")
 
 <table>
 <tr>
