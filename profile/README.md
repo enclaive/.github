@@ -133,6 +133,19 @@ We envision the further democratization of open-source software. The notion of f
    <br><br>
 </details> 
 
+### Our confidential compute management and orchastration platform ("PortainerCC")
+
+<table>
+<tr>
+    <td align="center">
+    <a href="https://github.com/enclaive/portainerCC">
+        <img alt="portainerCC" height=64px src="https://raw.githubusercontent.com/enclaive/.github/main/logos/portainerCC_logo.png">
+        </a> 
+        <br>Portainer <br>Confidential Compute Edition
+    </td>  
+</tr>
+</table>
+
 ### Our confidential apps ("The Base")
 
 <table>
