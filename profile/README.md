@@ -1,4 +1,4 @@
-# Welcome to enclaive - Home of Confidential Compute Containers 👋 
+# Welcome to enclaive - Home of Confidential Compute 👋 
 
 ![enclaive.io](/images/container.jpeg)
 
