@@ -321,23 +321,24 @@ We envision the further democratization of open-source software. The notion of f
 <table>
 <tr>
      </td>
-       <td align="center" width:"25%">
-        <a href="https://youtu.be/ByqHPSYtHqg"><img src="https://img.youtube.com/vi/ByqHPSYtHqg/0.jpg"></img></a>
+       <td align="center" width:"50%">
+        <a href="https://youtu.be/ByqHPSYtHqg"><img  src="https://img.youtube.com/vi/ByqHPSYtHqg/0.jpg"></img></a>
         <br>FOSDEM'23 Tutorial: Build confidential cloud applications with THE BASE</td> 
      </td>
-        <td align="center" width:"25%">
+        <td align="center" width:"50%">
         <a href="https://youtu.be/sgXOXRjfjPs"><img src="https://img.youtube.com/vi/sgXOXRjfjPs/0.jpg"></img></a>
         <br>ASG23 Talk: Confidential Compute - State of the Art and how to get started</td> 
      </td>
 </tr>
-<tr>
+</table>
+<table align="center">
+ <tr align="center">
       </td>
-        <td align="center" width:"25%">
+        <td align="center" >
         <a href="https://youtu.be/ErVvnlypo68"><img src="https://img.youtube.com/vi/ErVvnlypo68/0.jpg"></img></a>
         <br>PortcainerCC Tutorial: build, deploy, attest, and provision MariaDB in Azure Confidential Cloud</td> 
      </td>
 </tr>
-
 </table>
    
 ## For AMA, join Discord 
