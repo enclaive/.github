@@ -39,7 +39,7 @@
   <p align="center">
     <a href="https://github.com/enclaive/.github/edit/main/profile/README.md#confidential-containers-in-action">Demo Videos</a>
     ·
-    <a href="https:/enclaive.io">Web Site </a>
+    <a href="https://enclaive.io">Web Site </a>
     ·
     <a href="https://twitter.com/enclaive_io">Twitter</a>
     ·
