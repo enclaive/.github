@@ -15,7 +15,6 @@
 * 🕺 We combine Intel Security Guard Extension/Trusted Domain Extension and open-source libOS technology to turn standard containers into confidential containers
 * ❤️ We love open-source software and want that many more users to benefit from enclaved applications
 * 🤝 We aim to help open-source projects to close the last mile :100:
-* 📫 How to reach us: Best way is via <a href="https://discord.com/invite/AqWbg7Aw?utm_source=Discord%20Widget&utm_medium=Connect">discord</a>
 * ⚡ Fun fact: the 'i' in enclaive stands for <u>i</u>nimitable pointing to the fact that whatever runs in confidential containers can't be copied
 
      
@@ -340,12 +339,4 @@ We envision the further democratization of open-source software. The notion of f
      </td>
 </tr>
 </table>
-   
-## For AMA, join Discord 
-
-We believe in community efforts. If you want to stop by for some java, get to know us, get pointers to how get started, seek support or help with your own project, you find us on ...
-<br>
-<br>
-<a href="https://discord.gg/Su5Mzgu4TG">
-<img src="https://github.com/enclaive/.github/blob/main/images/discord.png" alt="Discord Banner 4"/>
-</a>      
+        
